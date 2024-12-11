@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: openai
+
+  data:
+    mongodb:
+      uri: <uri>
+      database: <db>
+
+openapi:
+  key: <openapi key>
